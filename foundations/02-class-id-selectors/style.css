@@ -1,0 +1,21 @@
+*{
+font-family:Veradana, sans-serif;
+}
+
+#Number2{
+	color:blue;
+	font-size:32px;
+}
+
+
+#Number4{
+	font-size:24px;
+	font-weight: bold;
+	background-color:aquamarine;
+}
+.odd{
+	background-color:pink;
+}
+.odd.normal{
+	font-size:28px;
+}
